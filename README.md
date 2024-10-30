@@ -1,6 +1,6 @@
 # Labour Market Dashboard - Saudi Arabia
 
-![Labour Market Dashboard](images/Labour_Market_Statistics.png)
+![Labour Market Statistics](Labour%20Market%20Statistics)
 
 ## Overview
 This dashboard provides a comprehensive view of labour market statistics in Saudi Arabia, based on the latest data from the **General Authority for Statistics**. It visualizes various aspects of employment demographics, including total employees by nationality, gender, sector, region, and age group. 
